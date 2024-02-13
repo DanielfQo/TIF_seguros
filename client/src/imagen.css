@@ -1,0 +1,8 @@
+.background-container {
+
+    background-image: url('./img-10.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1.0; 
+  }

@@ -1,0 +1,36 @@
+.container {
+    width: 800px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 50px; /* Ajusta el margen superior según sea necesario */
+}
+
+.section {
+    width: 300px; /* Ajusta el ancho según sea necesario */
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #1e6967;
+    text-align: left;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.data-item {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: red;
+    margin-top: 10px;
+    text-align: center;
+}
+.section-title {
+    text-align: center;
+    margin-bottom: 20px;
+    font-weight: bold; /* Añade negrita */
+    text-decoration: underline; /* Añade subrayado */
+}
